@@ -1,0 +1,11 @@
+{
+  "name": "wpjoomlascan",
+  "version": "1.0.0",
+  "description": "Scan wordpress / joomla sites for default username / password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
